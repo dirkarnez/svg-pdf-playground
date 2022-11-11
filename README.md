@@ -1,2 +1,2 @@
-[svg-pdf-animation-playground](https://dirkarnez.github.io/svg-pdf-animation-playground)
-========================================================================================
+[svg-pdf-playground](https://dirkarnez.github.io/svg-pdf-playground)
+====================================================================
